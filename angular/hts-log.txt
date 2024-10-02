@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 18:05:26 at https://matdash-angular-main.netlify.app/dashboards/dashboard1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://matdash-angular-main.netlify.app/dashboards/dashboard1 -O1 "C:\My Web Sites\angular" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:05:27	Warning: 	File not parsed, looks like binary: https://matdash-angular-main.netlify.app/robots.txt
+18:05:56	Warning: 	Moved Permanently for matdash-angular-main.netlify.app/favicon.ico
+18:05:56	Warning: 	Redirected link is identical because of 'URL Hack' option: matdash-angular-main.netlify.app/favicon.ico and https://matdash-angular-main.netlify.app/favicon.ico
+18:05:56	Warning: 	Warning moved treated for matdash-angular-main.netlify.app/favicon.ico (real one is https://matdash-angular-main.netlify.app/favicon.ico)
+18:05:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://fonts.gstatic.com/ (from https://matdash-angular-main.netlify.app/dashboards/dashboard1)
+18:05:58	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://matdash-angular-main.netlify.app/dashboards/dashboard1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 13 links scanned, 8 files written (4682312 bytes overall) [881007 bytes received at 27531 bytes/sec], 4618341 bytes transferred using HTTP compression in 7 files, ratio 17%
+(1 errors, 5 warnings, 0 messages)

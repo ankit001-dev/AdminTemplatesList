@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 17:24:49 at https://prium.github.io/falcon/v3.21.0/dashboard/lms.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://prium.github.io/falcon/v3.21.0/dashboard/lms.html -O1 "C:\My Web Sites\falcon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:25:57	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://polyfill.io/v3/polyfill.min.js?features=window.scroll (from https://prium.github.io/falcon/v3.21.0/dashboard/lms.html)
+17:25:58	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://polyfill.io/v3/polyfill.min.js?features=window.scroll (from https://prium.github.io/falcon/v3.21.0/dashboard/lms.html)
+17:25:58	Error: 	"Not Found" (404) at link https://prium.github.io/falcon/v3.21.0/vendors/leaflet/images/layers.png (from https://prium.github.io/falcon/v3.21.0/vendors/leaflet/leaflet.css)
+17:25:58	Error: 	"Not Found" (404) at link https://prium.github.io/falcon/v3.21.0/vendors/leaflet/images/layers-2x.png (from https://prium.github.io/falcon/v3.21.0/vendors/leaflet/leaflet.css)
+17:25:58	Error: 	"Not Found" (404) at link https://prium.github.io/falcon/v3.21.0/vendors/leaflet/images/marker-icon.png (from https://prium.github.io/falcon/v3.21.0/vendors/leaflet/leaflet.css)
+17:25:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://polyfill.io/v3/polyfill.min.js?features=window.scroll (from https://prium.github.io/falcon/v3.21.0/dashboard/lms.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 150 links scanned, 143 files written (11362699 bytes overall) [4853733 bytes received at 71378 bytes/sec], 8480188 bytes transferred using HTTP compression in 41 files, ratio 21%, 49.0 requests per connection
+(4 errors, 2 warnings, 0 messages)

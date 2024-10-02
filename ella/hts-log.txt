@@ -1,0 +1,99 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2024 11:32:12 at https://new-ella-demo.myshopify.com/?fts=0 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://new-ella-demo.myshopify.com/?fts=0 -O1 "C:\My Web Sites\ella" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:32:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=8133050458
+11:39:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=de-US&shop_id=8133050458
+11:42:45	Error: 	"Not Found" (404) at link https://new-ella-demo.myshopify.com/modules/chunk.common_Cn3G-yHV.esm.js (from https://new-ella-demo.myshopify.com/?fts=0)
+11:42:45	Error: 	"Not Found" (404) at link https://new-ella-demo.myshopify.com/modules/client.login-button_k7Hbv83g.en.esm.js (from https://new-ella-demo.myshopify.com/?fts=0)
+11:42:46	Error: 	"Not Found" (404) at link https://new-ella-demo.myshopify.com/POST (from https://new-ella-demo.myshopify.com/?fts=0)
+11:42:46	Error: 	"Error when decompressing" (-1) at link https://new-ella-demo.myshopify.com/cdn (from https://new-ella-demo.myshopify.com/?fts=0)
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com/?preview_theme_id=
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com/?preview_theme_id= to https://new-ella-demo.myshopify.com/
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127857242
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126317146
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126317146 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126677594
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126677594 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126710362
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126710362 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126775898
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126775898 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126808666
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126808666 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126841434
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126841434 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126906970
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123126906970 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127005274
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127005274 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127103578
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127103578 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127169114
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127169114 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127234650
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127234650 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127267418
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127267418 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127300186
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127300186 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127332954
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127332954 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127365722
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127365722 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127464026
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123127464026 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123190444122
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123190444122 to https://new-ella-demo.myshopify.com/?fts=0
+11:53:00	Warning: 	Found for https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123788394586
+11:53:00	Warning: 	File has moved from https://new-ella-demo.myshopify.com//?fts=0&preview_theme_id=123788394586 to https://new-ella-demo.myshopify.com/?fts=0
+12:03:28	Warning: 	Found for https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123190444122
+12:03:28	Warning: 	File has moved from https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123190444122 to https://new-ella-demo.myshopify.com/collections/new-in?fts=0
+12:03:30	Warning: 	Found for https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123126775898
+12:03:30	Warning: 	File has moved from https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123126775898 to https://new-ella-demo.myshopify.com/collections/new-in?fts=0
+12:03:30	Warning: 	Found for https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123127464026
+12:03:30	Warning: 	File has moved from https://new-ella-demo.myshopify.com/collections/new-in//?fts=0&preview_theme_id=123127464026 to https://new-ella-demo.myshopify.com/collections/new-in?fts=0
+12:03:30	Warning: 	Found for https://new-ella-demo.myshopify.com/collections/cosmo-milano//?fts=0&preview_theme_id=123127300186
+12:03:30	Warning: 	File has moved from https://new-ella-demo.myshopify.com/collections/cosmo-milano//?fts=0&preview_theme_id=123127300186 to https://new-ella-demo.myshopify.com/collections/cosmo-milano?fts=0
+12:03:32	Warning: 	Found for https://new-ella-demo.myshopify.com/collections/lorem-dorus//?fts=0&preview_theme_id=123127365722
+12:03:32	Warning: 	File has moved from https://new-ella-demo.myshopify.com/collections/lorem-dorus//?fts=0&preview_theme_id=123127365722 to https://new-ella-demo.myshopify.com/collections/lorem-dorus?fts=0
+12:03:33	Warning: 	Found for https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito//?fts=0&preview_theme_id=123127857242
+12:03:33	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito?fts=0
+12:03:34	Warning: 	Found for https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito-2//?fts=0&preview_theme_id=123127234650
+12:03:34	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito-2//?fts=0&preview_theme_id=123127234650 to https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito-2?fts=0
+12:03:35	Warning: 	Found for https://new-ella-demo.myshopify.com/products/nulla-dinterdum-miverra-des-lacos-1//?fts=0&preview_theme_id=123127103578
+12:03:35	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/nulla-dinterdum-miverra-des-lacos-1//?fts=0&preview_theme_id=123127103578 to https://new-ella-demo.myshopify.com/products/nulla-dinterdum-miverra-des-lacos-1?fts=0
+12:03:37	Warning: 	Found for https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-2//?fts=0&preview_theme_id=123127857242
+12:03:37	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-2//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-2?fts=0
+12:03:38	Warning: 	Found for https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-4//?fts=0&preview_theme_id=123127857242
+12:03:38	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-4//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-4?fts=0
+12:03:39	Warning: 	Found for https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento//?fts=0&preview_theme_id=123127857242
+12:03:39	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento?fts=0
+12:03:41	Warning: 	Found for https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-1//?fts=0&preview_theme_id=123127857242
+12:03:41	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-1//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-1?fts=0
+12:03:42	Warning: 	Found for https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2//?fts=0&preview_theme_id=123127857242
+12:03:42	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2?fts=0
+12:05:29	Error: 	Exit requested by shell or user
+12:05:30	Warning: 	File not added due to mirror cancel: https://new-ella-demo.myshopify.com/cdn/shop/products/image23xxl.jpg?v=1658120158
+12:05:31	Warning: 	Found for https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto//?fts=0&preview_theme_id=123127857242
+12:05:31	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto//?fts=0&preview_theme_id=123127857242 to https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto?fts=0
+12:05:33	Warning: 	Found for https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito//?fts=0&preview_theme_id=123126317146
+12:05:33	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito//?fts=0&preview_theme_id=123126317146 to https://new-ella-demo.myshopify.com/products/loremous-saliduar-a-cosmopolito?fts=0
+12:05:35	Warning: 	Found for https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2//?fts=0&preview_theme_id=123126710362
+12:05:35	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2//?fts=0&preview_theme_id=123126710362 to https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2?fts=0
+12:05:35	Warning: 	Found for https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento//?fts=0&preview_theme_id=123127464026
+12:05:35	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento//?fts=0&preview_theme_id=123127464026 to https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento?fts=0
+12:05:35	Warning: 	Found for https://new-ella-demo.myshopify.com/products/product-07-sample-kids-for-sale//?fts=0&preview_theme_id=123126710362
+12:05:35	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/product-07-sample-kids-for-sale//?fts=0&preview_theme_id=123126710362 to https://new-ella-demo.myshopify.com/products/product-07-sample-kids-for-sale?fts=0
+12:05:45	Warning: 	Found for https://new-ella-demo.myshopify.com/products/faucibus-sullamcorper-matti-drost//?fts=0&preview_theme_id=123127234650
+12:05:45	Warning: 	File has moved from https://new-ella-demo.myshopify.com/products/faucibus-sullamcorper-matti-drost//?fts=0&preview_theme_id=123127234650 to https://new-ella-demo.myshopify.com/products/faucibus-sullamcorper-matti-drost?fts=0
+12:05:54	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

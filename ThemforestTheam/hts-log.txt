@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 16:53:04 at https://preview.themeforest.net/item/quantum-bootstrap-5-admin-template/full_screen_preview/53071201?_ga=2.201870418.252401661.1727521460-1195257265.1727521460 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/quantum-bootstrap-5-admin-template/full_screen_preview/53071201?_ga=2.201870418.252401661.1727521460-1195257265.1727521460 -O1 "C:\My Web Sites\ThemforestTheam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:53:09	Warning: 	Link https://preview.themeforest.net/item/quantum-bootstrap-5-admin-template/full_screen_preview/53071201?_ga=2.201870418.252401661.1727521460-1195257265.1727521460 not scanned (follow robots meta tag)
+16:53:09	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/quantum-bootstrap-5-admin-template/full_screen_preview/&quot;http://seantheme.com/quantum/cover.jpg?v=1.0&quot; (from https://preview.themeforest.net/item/quantum-bootstrap-5-admin-template/full_screen_preview/53071201?_ga=2.201870418.252401661.1727521460-1195257265.1727521460)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 5 links scanned, 3 files written (83948 bytes overall) [76539 bytes received at 15307 bytes/sec], 17861 bytes transferred using HTTP compression in 2 files, ratio 34%, 1.2 requests per connection
+(1 errors, 1 warnings, 0 messages)

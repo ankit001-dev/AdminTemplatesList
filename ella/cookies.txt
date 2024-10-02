@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+new-ella-demo.myshopify.com	TRUE	/de	FALSE	1999999999	localization	US
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F%3Ffts%3D0
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22INDL%22%2C%22reg%22%3A%22%22%7D
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZJL1CfFAAH_ZQO-yj6darXFKEMMskra66I_LkqG8lCFfPrDu7R3NdkzeZfFWMiZAhhgzRU-26oO8_poQA-AbjJg46rpJVNvOV0yZZKMwIXYsd87YRK_hS9MSYWW:
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	fafea4e4-c24e-4827-8a68-bd884529981e
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	d26619a4-b5b6-4104-b1a1-eab07bf02d84
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	9c5196a1-ca6b-44de-8dab-f3c27ddf4244
+new-ella-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

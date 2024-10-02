@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:13:55	156/156	---MCZ	200	added ('OK')	text/plain	date:Mon,%2023%20Sep%202024%2015:26:10%20GMT	https://dashboardpack.com/robots.txt		(from )
+18:13:57	101799/101799	---MCZ	200	added ('OK')	text/html	date:Sat,%2028%20Sep%202024%2012:44:00%20GMT	https://dashboardpack.com/live-demo-preview/?livedemo=290	C:/My%20Web%20Sites/architectAdmin/dashboardpack.com/live-demo-preview/index6802.html	(from )
+18:13:57	498/498	---M--	200	added ('OK')	image/png	date:Thu,%2029%20Sep%202022%2019:08:22%20GMT	https://149842454.v2.pressablecdn.com/wp-content/themes/dashboardpack/assets/images/apple-touch-icon.png	C:/My%20Web%20Sites/architectAdmin/149842454.v2.pressablecdn.com/wp-content/themes/dashboardpack/assets/images/apple-touch-icon.png	(from https://dashboardpack.com/live-demo-preview/?livedemo=290)

@@ -1,0 +1,2968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://new-ella-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://new-ella-demo.myshopify.com/collections/collection-home-01-5.atom"/>
+  <title>new-ella-demo</title>
+  <updated>2022-09-06T01:32:03-04:00</updated>
+  <author>
+    <name>new-ella-demo</name>
+  </author>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6793964519514</id>
+    <published>2022-09-06T01:32:03-04:00</published>
+    <updated>2022-09-06T01:32:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/test-no-variants-2"/>
+    <title>Test no variants 2</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Mango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image14xxl_e76d184b-805a-4553-a5d2-afa22eae7b48.jpg?v=1662442315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mango<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Mango</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6793964519514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+    <published>2022-08-08T05:17:40-04:00</published>
+    <updated>2022-08-08T05:17:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/test-no-variant"/>
+    <title>Test no variant</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Mango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image14xxl_62f255da-8ef1-446a-a4ab-156a992f3c68.jpg?v=1659950269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mango<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Mango</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / XS / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / XS / Ruber 5</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / XS / Ruber 6</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / XS / Ruber 7</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / S / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / S / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / S / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / S / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / M / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / M / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / M / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / M / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / L / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / L / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / L / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Black / L / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / XS / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / XS / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / XS / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / XS / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / S / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / S / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / S / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / S / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / M / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / M / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / M / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / M / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / L / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / L / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / L / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Blue / L / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / XS / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / XS / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / XS / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / XS / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / S / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / S / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / S / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / S / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / M / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / M / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / M / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / M / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / L / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / L / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / L / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Yellow / L / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / XS / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690074</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / XS / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / XS / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690076</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / XS / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / S / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / S / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / S / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / S / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / M / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / M / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / M / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / M / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / L / Ruber 1</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / L / Ruber 2</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / L / Ruber 3</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6777593888858</id>
+      <title>Red / L / Ruber 4</title>
+      <s:price currency="USD">128.00</s:price>
+      <s:sku>W0690125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6674106155098</id>
+    <published>2021-12-15T06:35:04-05:00</published>
+    <updated>2021-12-15T06:35:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/game-cover-fre2-7"/>
+    <title>(Game Cover) Fre2-7in</title>
+    <s:type></s:type>
+    <s:vendor>XBOX 360</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Game-Cover-7_a29005b8-fdec-4bbd-a0da-b9540b0860b0.jpg?v=1639568123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XBOX 360<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00 - 89.00
+            <a href="https://new-ella-demo.myshopify.com/products/game-cover-fre2-7">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6674106155098</id>
+      <title>Level 1</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6674106155098</id>
+      <title>Level 2</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6673753702490</id>
+    <published>2021-12-15T06:18:52-05:00</published>
+    <updated>2021-12-15T06:18:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/game-cover-23"/>
+    <title>(Game Cover 23) Amaterasu-Lv2-5in</title>
+    <s:type></s:type>
+    <s:vendor>PC Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Game-Cover-23.jpg?v=1639541366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>home8-new</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673753702490</id>
+      <title>Level 1</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673753702490</id>
+      <title>Level 2</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6674103369818</id>
+    <published>2021-12-15T06:09:26-05:00</published>
+    <updated>2021-12-15T06:09:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/game-cover-girl-hero-up"/>
+    <title>(Game Cover) Centaurs6</title>
+    <s:type></s:type>
+    <s:vendor>VR Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Game-Cover-13_4696e780-0b17-4877-afd2-fca2427ec017.jpg?v=1639567273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VR Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>home8-featured</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6674103369818</id>
+      <title>Level 1</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6674103369818</id>
+      <title>Level 2</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6673756946522</id>
+    <published>2021-12-14T23:15:10-05:00</published>
+    <updated>2021-12-14T23:15:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/game-cover-20"/>
+    <title>(Game Cover) Face Aver2</title>
+    <s:type></s:type>
+    <s:vendor>PC Games</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Game-Cover-19_82e96080-3794-4c96-a623-a29e487b9680.jpg?v=1639541726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Games<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>home8-new</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673756946522</id>
+      <title>Level 1</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673756946522</id>
+      <title>Level 2</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6673756323930</id>
+    <published>2021-12-14T23:14:04-05:00</published>
+    <updated>2021-12-14T23:14:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/game-cover-21"/>
+    <title>(Game Cover) Angel N Lv1</title>
+    <s:type></s:type>
+    <s:vendor>PS4</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Game-Cover-20_47a1a398-63e1-4ae6-b5bb-bea7005a8fd5.jpg?v=1639541668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PS4<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>home8-new</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673756323930</id>
+      <title>Level 1</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6673756323930</id>
+      <title>Level 2</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+    <published>2021-12-09T22:15:29-05:00</published>
+    <updated>2021-12-09T22:15:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/nulla-dinterdum-miverra-des-lacos-1"/>
+    <title>(Product 25) Sample - Jewelry And Accessory For Sale</title>
+    <s:type></s:type>
+    <s:vendor>ThemeVale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-2.jpg?v=1639106135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ThemeVale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2869.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-new</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Moccasin / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Moccasin / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Moccasin / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Moccasin / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Gold / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>MistyRose / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>MistyRose / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>MistyRose / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>MistyRose / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>SeaShell / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>SeaShell / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>SeaShell / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670845050970</id>
+      <title>SeaShell / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-109DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+    <published>2021-12-09T22:15:10-05:00</published>
+    <updated>2021-12-09T22:15:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/mauris-de-damet-porttitor-mante-le-cosmo-dametos"/>
+    <title>(Product 22) Sample - Jewelry And Accessory For Sale</title>
+    <s:type></s:type>
+    <s:vendor>Tomorrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-1.jpg?v=1639106113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tomorrow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            869.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-new</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Silver / XS</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Silver / S</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Silver / M</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Silver / L</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Ivory / XS</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Ivory / S</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Ivory / M</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Ivory / L</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Lavender / XS</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Lavender / S</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Lavender / M</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844854362</id>
+      <title>Lavender / L</title>
+      <s:price currency="USD">869.00</s:price>
+      <s:sku>Prst-118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+    <published>2021-12-09T22:15:05-05:00</published>
+    <updated>2021-12-09T22:15:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/mauris-cosmopolis-porttitor-a-lacos-dametos"/>
+    <title>(Product 21) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Donatello</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-33_6b8b01fd-404b-4c19-b66e-cbc187e77d0b.jpg?v=1639106108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donatello<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            1089.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-new</s:tag>
+    <s:tag>label</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Gold / XS</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Moccasin / XS</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Moccasin / S</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Moccasin / M</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844756058</id>
+      <title>Moccasin / L</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+    <published>2021-12-09T22:15:00-05:00</published>
+    <updated>2021-12-09T22:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/cosmopolis-porttitor-a-lacos-dametos"/>
+    <title>(Product 20) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Solutmades</s:type>
+    <s:vendor>Benjamin Button</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-17_64d9908d-46d6-405a-aa33-4e290efee1c6.jpg?v=1639106103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Benjamin Button<br>
+        <strong>Type: </strong>Solutmades<br>
+        <strong>Price: </strong>
+            989.00 - 1089.00
+            <a href="https://new-ella-demo.myshopify.com/products/cosmopolis-porttitor-a-lacos-dametos">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom-label</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-new</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Silver / XS</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Silver / S</title>
+      <s:price currency="USD">989.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Silver / M</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Silver / L</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Teal / XS</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Teal / S</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Teal / M</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844723290</id>
+      <title>Teal / L</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+    <published>2021-12-09T22:14:46-05:00</published>
+    <updated>2021-12-09T22:14:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-nulla-dinterdum-miverra-des-lacos-4"/>
+    <title>(Product 18) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Collette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-4_ee6c7fc7-92c2-44d3-8a44-e8aa22175a86.jpg?v=1639106093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collette<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            2869.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daventry MeersNam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-featured</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>MistyRose / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>MistyRose / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>MistyRose / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>MistyRose / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>Gold / XS</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844624986</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">2869.00</s:price>
+      <s:sku>DW00-1099G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844395610</id>
+    <published>2021-12-09T22:14:25-05:00</published>
+    <updated>2021-12-09T22:14:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-nulla-dinterdum-miverra-des-lacos"/>
+    <title>(Product 15) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>De Fermentumo</s:type>
+    <s:vendor>Daventry Meers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-27_cbbe902b-c86c-4e54-845a-62f9de47cd7a.jpg?v=1639106069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daventry Meers<br>
+        <strong>Type: </strong>De Fermentumo<br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Custom Label</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>jewelry-featured</s:tag>
+    <s:tag>label</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844395610</id>
+      <title>Cornsilk / XS</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku>DW00-108ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844395610</id>
+      <title>LightCyan / S</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku>DW00-108ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844395610</id>
+      <title>SandyBrown / M</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku>DW00-108ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844395610</id>
+      <title>MistyRose / L</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku>DW00-108ML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844231770</id>
+    <published>2021-12-09T22:14:11-05:00</published>
+    <updated>2021-12-09T22:14:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-naminos-dementus-a-dincidunto-cosmo-milancelos"/>
+    <title>(Product 13) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Loremous Comodous</s:type>
+    <s:vendor>Donatello</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-18.jpg?v=1639106056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donatello<br>
+        <strong>Type: </strong>Loremous Comodous<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844231770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-108GH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844199002</id>
+    <published>2021-12-09T22:14:04-05:00</published>
+    <updated>2021-12-09T22:14:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-mauris-de-damet-porttitor-mante-le-cosmo-dametos-2"/>
+    <title>(Product 12) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Loremous Comodous</s:type>
+    <s:vendor>Donatello</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-19_68f5d00d-d2ad-4f22-91af-6da42f91b980.jpg?v=1639106051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donatello<br>
+        <strong>Type: </strong>Loremous Comodous<br>
+        <strong>Price: </strong>
+            740.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844199002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">740.00</s:price>
+      <s:sku>DW00-109VN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+    <published>2021-12-09T22:13:58-05:00</published>
+    <updated>2021-12-09T22:13:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-mauris-de-damet-porttitor-mante-le-cosmo-dametos-1"/>
+    <title>(Product 11) Sample - Jewelry And Accessory For Sale</title>
+    <s:type>Milancelos</s:type>
+    <s:vendor>Collette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-30_acd17ad1-fbfa-4a5a-9bfd-78f6d9feb280.jpg?v=1639106042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collette<br>
+        <strong>Type: </strong>Milancelos<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Gold / XS</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Lavender / XS</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Lavender / S</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Lavender / M</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Lavender / L</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Moccasin / XS</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Moccasin / S</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Moccasin / M</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>Moccasin / L</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>DeepPink / XS</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>DeepPink / S</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>DeepPink / M</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>DeepPink / L</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>GoldenRod / XS</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>GoldenRod / S</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>GoldenRod / M</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670844100698</id>
+      <title>GoldenRod / L</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku>DW00-109MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+    <published>2021-12-09T22:13:03-05:00</published>
+    <updated>2021-12-09T22:13:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/copy-of-class-macitos-sociosques-delos-lorem-a-madis"/>
+    <title>(Product 2) Sample - Jewelry And Accessory For Sale</title>
+    <s:type></s:type>
+    <s:vendor>Benjamin Button</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/accessories-product-image-16_06efc501-e343-4443-90e8-306a23749833.jpg?v=1639105989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Benjamin Button<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1089.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla de deumantos solicitud felis. Pellentesque diam dolor lorem elementum etos lobortis des mollis. Quisque delo convallis marius odio sed aliquet denean de rutrum ante.</p>
+<h4 class="first-hedding">Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+</ol>
+<div class="quote-detail rte">
+<h4>Sample Block Quote</h4>
+<blockquote>Praesent destibulum congue tellus delos an fringilla. Curabitur mitae semper sem de convallis est. Cosmo delis nunc commodo eu convallis.</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Silver / Large</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Silver / Small</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Silver / Medium</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Silver / XSmall</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Gold / Large</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Gold / Small</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Gold / Medium</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6670843543642</id>
+      <title>Gold / XSmall</title>
+      <s:price currency="USD">1089.00</s:price>
+      <s:sku>DW00-109VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+    <published>2021-08-18T03:58:40-04:00</published>
+    <updated>2021-08-18T03:58:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-5"/>
+    <title>(Product 35) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Collette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Kindersaimon_Bottom_2_1-316bed1bd27939cade86ccd3ff9d_e0113b9a-a6f5-4881-84bd-46910059798d.jpg?v=1658215778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collette<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            48.99 - 80.00
+            <a href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-5">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Collette</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Less than $100</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Darkorange / XS</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Darkorange / S</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>W0690049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Darkorange / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Darkorange / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Black / S</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Black / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Black / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617632211034</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+    <published>2021-08-18T03:56:53-04:00</published>
+    <updated>2021-08-18T03:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-5"/>
+    <title>(Product 26) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Cosmopolis</s:type>
+    <s:vendor>Tomorrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image24xxl_86e75a11-215d-4532-8415-04aee8403a5b.jpg?v=1658141656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tomorrow<br>
+        <strong>Type: </strong>Cosmopolis<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Cosmopolis</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Less than $100</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tomorrow</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>White / S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>White / M</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>White / L</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Forestgreen / S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Forestgreen / M</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Forestgreen / L</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Cornflowerblue / S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Cornflowerblue / M</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631850586</id>
+      <title>Cornflowerblue / L</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>W0690065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+    <published>2021-08-18T03:56:34-04:00</published>
+    <updated>2021-08-18T03:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-3"/>
+    <title>(Product 24) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Mango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image14xxl_91303d37-701c-49f3-9536-fd58f8854bd3.jpg?v=1658141163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mango<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            83.00 - 98.00
+            <a href="https://new-ella-demo.myshopify.com/products/dinterdum-pretium-condimento-3">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Mango</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>White / XS</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>White / S</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>White / M</title>
+      <s:price currency="USD">97.00</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>W0690070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631785050</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>W0690071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631752282</id>
+    <published>2021-08-18T03:56:25-04:00</published>
+    <updated>2021-08-18T03:56:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/naminos-dementus-a-dincidunto-6"/>
+    <title>(Product 23) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Loremous Comodous</s:type>
+    <s:vendor>Jimmy Choo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image17xxl_f33aba8e-5f69-4522-aa19-5c3fef369fb9.jpg?v=1658141047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jimmy Choo<br>
+        <strong>Type: </strong>Loremous Comodous<br>
+        <strong>Price: </strong>
+            489.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Jimmy Choo</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Loremous Comodous</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631752282</id>
+      <title>Cadetblue</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631752282</id>
+      <title>Gray</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631752282</id>
+      <title>Pink</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631653978</id>
+    <published>2021-08-18T03:56:06-04:00</published>
+    <updated>2021-08-18T03:56:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-4"/>
+    <title>(Product 20) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Anna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image18xxl_202d1a5f-726b-4d58-992f-a95043454874.jpg?v=1658139585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anna<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            418.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>Anna</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631653978</id>
+      <title>Default Title</title>
+      <s:price currency="USD">418.90</s:price>
+      <s:sku>W0690042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+    <published>2021-08-18T03:55:43-04:00</published>
+    <updated>2021-08-18T03:55:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dempus-an-lortis-tempus-sapiendos"/>
+    <title>(Product 18) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Daventry Meers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/Aries_Top_1_1-e22af7f40e761ac1640bb9f39898_145278d0-ef88-4713-bb7c-d1fb193c374a.jpg?v=1658215904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daventry Meers<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            99.00 - 419.99
+            <a href="https://new-ella-demo.myshopify.com/products/dempus-an-lortis-tempus-sapiendos">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>$200 - $400</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>Above $400</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Daventry Meers</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Less than $100</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / S</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / M</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / L</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku>W0690065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / XL</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>W0690066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / 2X</title>
+      <s:price currency="USD">414.00</s:price>
+      <s:sku>W0690067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Cornflowerblue / 3X</title>
+      <s:price currency="USD">419.99</s:price>
+      <s:sku>W0690068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>W0690035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>W0690036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku>W0690037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>W0690038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / 2X</title>
+      <s:price currency="USD">414.00</s:price>
+      <s:sku>W0690039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Pink / 3X</title>
+      <s:price currency="USD">419.99</s:price>
+      <s:sku>W0690040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / S</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>W0690042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / M</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>W0690043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / L</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku>W0690044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / XL</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>W0690045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / 2X</title>
+      <s:price currency="USD">414.00</s:price>
+      <s:sku>W0690046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>Crimson / 3X</title>
+      <s:price currency="USD">419.99</s:price>
+      <s:sku>W0690047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / S</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>W0690049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / M</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku>W0690050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / L</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku>W0690051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / XL</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>W0690052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / 2X</title>
+      <s:price currency="USD">414.00</s:price>
+      <s:sku>W0690053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631555674</id>
+      <title>White / 3X</title>
+      <s:price currency="USD">419.99</s:price>
+      <s:sku>W0690054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631522906</id>
+    <published>2021-08-18T03:55:39-04:00</published>
+    <updated>2021-08-18T03:55:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-3"/>
+    <title>(Product 17) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Solutmades</s:type>
+    <s:vendor>Burberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image9xxl-GREY_ff06aeb5-3be3-46eb-b3de-13a37a9c4bca.jpg?v=1658136776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burberry<br>
+        <strong>Type: </strong>Solutmades<br>
+        <strong>Price: </strong>
+            418.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $400</s:tag>
+    <s:tag>Burberry</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Solutmades</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631522906</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">418.99</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631522906</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">418.99</s:price>
+      <s:sku>W0690070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631522906</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">418.99</s:price>
+      <s:sku>W0690071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631522906</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">418.99</s:price>
+      <s:sku>W0690072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+    <published>2021-08-18T03:55:15-04:00</published>
+    <updated>2021-08-18T03:55:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2"/>
+    <title>(Product 15) Sample - Clothing And Accessory Boutiques For Sale</title>
+    <s:type>Dincidunteros</s:type>
+    <s:vendor>Collette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/products/image22xxl_437fd024-cf65-42e1-967c-33ab28c3f5ae.jpg?v=1658136453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collette<br>
+        <strong>Type: </strong>Dincidunteros<br>
+        <strong>Price: </strong>
+            48.99 - 78.99
+            <a href="https://new-ella-demo.myshopify.com/products/dempus-lortis-cosmo-sapiendo-2">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="tab-des">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos. Donec pretium egestas sapien et mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla in mi vel arcu convallis molestie et eget nulla. Donec laoreet daugue sit amet ornare rhoncus elit nisi luctus.</p>
+<div class="description-sample-container">
+    <div class="articleGallery-block">
+        <h4>Sample Image Gallery</h4>
+        <div style="--row-distance-style: -15px; --item-distance-style: 15px; --dots-color-style: #ffffff; --dots-bg-color-style: #323232; --dots-shadow-color-style: rgba(50, 50, 50, 0.3); --icon-width: 60px; --icon-height: 60px; --icon-size: 25px; --icon-background-color: #111; --icon-color: #fff;" data-col="4" class="column-4 articleGallery-slider scroll-snap-mobile disable-srollbar column-mb-2">
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 1"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 2"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 3"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 4"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 5"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 6"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 7"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-2.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 8"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+            <div class="imgGallery-item">
+                <div class="img-box">
+                    <a href="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" data-fancybox="images" class="image-zoom fancybox adaptive-height"> <img role="presentation" alt="" src="https://cdn.shopify.com/s/files/1/0081/3305/0458/files/image-gallary-3.jpg?v=1658393919" class="zoomImg" title="Dinterdum pretium condimento example 9"> </a>
+                    <div class="hover-icon-container"><svg aria-hidden="true" data-prefix="fal" data-icon="external-link" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="icon icon-external-link">
+                            <path d="M440,256H424a8,8,0,0,0-8,8V464a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V112A16,16,0,0,1,48,96H248a8,8,0,0,0,8-8V72a8,8,0,0,0-8-8H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V264A8,8,0,0,0,440,256ZM500,0,364,.34a12,12,0,0,0-12,12v10a12,12,0,0,0,12,12L454,34l.7.71L131.51,357.86a12,12,0,0,0,0,17l5.66,5.66a12,12,0,0,0,17,0L477.29,57.34l.71.7-.34,90a12,12,0,0,0,12,12h10a12,12,0,0,0,12-12L512,12A12,12,0,0,0,500,0Z"></path>
+                        </svg></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sample-lists">
+        <div class="item">
+            <h4>Sample Unordered List</h4>
+            <ul>
+                <li>Comodous in tempor ullamcorper miaculis.</li>
+                <li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+                <li>Divamus sit amet purus justo.</li>
+                <li>Proin molestie egestas orci ac suscipit risus posuere.</li>
+            </ul>
+        </div>
+        <div class="item">
+            <h4>Sample Ordered List</h4>
+            <ol>
+                <li>Comodous in tempor ullamcorper miaculis.</li>
+                <li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+                <li>Divamus sit amet purus justo.</li>
+                <li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+            </ol>
+        </div>
+    </div>
+    <blockquote class="quote">
+        <h4>Sample Block Quote</h4>
+        <p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis, nec danos dui vestibulum sit amet auctor ipsum.</p>
+    </blockquote>
+    <div class="sample-text-block">
+        <h4>Sample Paragraph Text</h4>
+        <p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes, suspendisse vestibulum lectus in lectus volutpate.</p>
+    </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Collette</s:tag>
+    <s:tag>Dincidunteros</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Less than $100</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Lightcoral / XS</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Lightcoral / S</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Lightcoral / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Lightcoral / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Cadetblue / XS</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>W0690062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Cadetblue / S</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Cadetblue / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Cadetblue / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>W0690069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://new-ella-demo.myshopify.com/products/6617631457370</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>W0690072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

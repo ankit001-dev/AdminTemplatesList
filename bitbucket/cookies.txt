@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitbucket.org	TRUE	/	FALSE	1999999999	csrftoken	lTSRefvRhhZabr3Nqv8Zk1DyjMeF5iC1a1tUQLukzeyCVFes9xY8AALSviIhRund
+bitbucket.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
